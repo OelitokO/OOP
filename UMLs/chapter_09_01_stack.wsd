@@ -1,0 +1,28 @@
+@startuml
+title Object Stack
+
+interface IStack{
+    +push(item:object)
+    +pop():object
+    +peek():object
+}
+
+class LinkedListStack{
+    -collection:object[]
+    +push(item:object)
+    +pop():object
+    +peek():object
+}
+
+class ListStack{
+    -collection:object[]
+    +push(item:object)
+    +pop():object
+    +peek():object
+}
+
+ListStack -.l-|> IStack : <<implements>>
+LinkedListStack -.r-|> IStack : <<implements>>
+
+hide empty members
+@enduml

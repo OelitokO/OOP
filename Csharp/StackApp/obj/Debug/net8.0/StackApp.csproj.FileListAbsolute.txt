@@ -1,0 +1,14 @@
+C:\Users\ahmet\OneDrive\Masaüstü\OOP\Csharp\StackApp\bin\Debug\net8.0\StackApp.exe
+C:\Users\ahmet\OneDrive\Masaüstü\OOP\Csharp\StackApp\bin\Debug\net8.0\StackApp.deps.json
+C:\Users\ahmet\OneDrive\Masaüstü\OOP\Csharp\StackApp\bin\Debug\net8.0\StackApp.runtimeconfig.json
+C:\Users\ahmet\OneDrive\Masaüstü\OOP\Csharp\StackApp\bin\Debug\net8.0\StackApp.dll
+C:\Users\ahmet\OneDrive\Masaüstü\OOP\Csharp\StackApp\bin\Debug\net8.0\StackApp.pdb
+C:\Users\ahmet\OneDrive\Masaüstü\OOP\Csharp\StackApp\obj\Debug\net8.0\StackApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmet\OneDrive\Masaüstü\OOP\Csharp\StackApp\obj\Debug\net8.0\StackApp.AssemblyInfoInputs.cache
+C:\Users\ahmet\OneDrive\Masaüstü\OOP\Csharp\StackApp\obj\Debug\net8.0\StackApp.AssemblyInfo.cs
+C:\Users\ahmet\OneDrive\Masaüstü\OOP\Csharp\StackApp\obj\Debug\net8.0\StackApp.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\OneDrive\Masaüstü\OOP\Csharp\StackApp\obj\Debug\net8.0\StackApp.dll
+C:\Users\ahmet\OneDrive\Masaüstü\OOP\Csharp\StackApp\obj\Debug\net8.0\refint\StackApp.dll
+C:\Users\ahmet\OneDrive\Masaüstü\OOP\Csharp\StackApp\obj\Debug\net8.0\StackApp.pdb
+C:\Users\ahmet\OneDrive\Masaüstü\OOP\Csharp\StackApp\obj\Debug\net8.0\StackApp.genruntimeconfig.cache
+C:\Users\ahmet\OneDrive\Masaüstü\OOP\Csharp\StackApp\obj\Debug\net8.0\ref\StackApp.dll
